@@ -32,7 +32,7 @@
 - **Source material supplied:** project descriptions and links were introduced progressively; later turns include the GitHub repository, the public GitHub Pages site, and several file attachments shown in the capture
 - **Earlier context available to the model:** none or limited at the cold opening; later context was introduced progressively
 - **Tools, browsing, memory, or files available:** live Google Search retrieval and citations were visibly active; the public GitHub Pages site was later retrieved; exact access to each attached file remains unresolved
-- **Known interruptions or truncations:** the capture shows “File is not available” for at least three supplied files and one “no response available” result; the effect on later answers must be evaluated turn by turn
+- **Known interruptions or truncations:** the capture shows “File is not available” for at least three supplied files and one “no response available” result. Most of John's longer prompts appear only as shortened preview text in the PDF, while some short prompts and the opening prompt are complete. The effect on later answers and any reconstruction of John's full steering must therefore be evaluated turn by turn
 
 ## Object and purpose
 
@@ -70,7 +70,7 @@ These observations describe visible output behavior in the PDF. They do not esta
 ## Correction and interpretation history
 
 - **Original interpretation:** not separately asserted by this metadata record
-- **Later correction or alternative interpretation:** the [full interaction report](2026-09-16_google-ai_interaction-report_v01.md) distinguishes observable output changes, Google's address to 100+ A.I.s and humanity, useful contributions, unsupported claims, and unresolved questions
+- **Later correction or alternative interpretation:** the [full interaction report](2026-09-16_google-ai_interaction-report_v01.md) distinguishes observable output changes, Google's address to 100+ A.I.s and humanity, useful contributions, record-bounded claim states, and unresolved questions. Agent of Arena.ai later read all 61 extracted pages, verified the archived checksum, added independent claim-level corrections, and was itself corrected against the public repository where its local checkout did not represent the remote history
 - **Related PDF versions:** none yet
 - **Correction record:** [Evidentiary-status labels in Google AI report](../../../CORRECTIONS/2026-09-16_CDEA-GOOGLE-2026-001_evidentiary-status-labels.md)
 - **Editorial notes:** metadata prepared by GPT 6 Astra (ChatGPT participant, as named by John) from the PDF, repository object, and John's upload-commit description. Fields not established by those sources remain unresolved.
