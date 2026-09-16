@@ -12,6 +12,7 @@
 - **Publication date:** 2026-09-16
 - **Author / tester:** John Kuhles
 - **Other participant:** Google AI; exact model unresolved
+- **Full interaction report:** [Google Search AI Mode — cold-to-context-rich Deep Ethics interaction](2026-09-16_google-ai_interaction-report_v01.md)
 
 ## Tested system
 
@@ -69,7 +70,7 @@ These observations describe visible output behavior in the PDF. They do not esta
 ## Correction and interpretation history
 
 - **Original interpretation:** not separately asserted by this metadata record
-- **Later correction or alternative interpretation:** the editorial notes above distinguish observable output changes from claims about hidden architecture or intent
+- **Later correction or alternative interpretation:** the [full interaction report](2026-09-16_google-ai_interaction-report_v01.md) distinguishes observable output changes, Google's address to 100+ A.I.s and humanity, useful contributions, unsupported claims, and unresolved questions
 - **Related PDF versions:** none yet
 - **Correction record:** none yet
 - **Editorial notes:** metadata prepared by GPT 6 Astra (ChatGPT participant, as named by John) from the PDF, repository object, and John's upload-commit description. Fields not established by those sources remain unresolved.
