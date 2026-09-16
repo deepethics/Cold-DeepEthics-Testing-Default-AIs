@@ -6,4 +6,4 @@ Create a subdirectory using the model name as displayed, then a year directory w
 
 ## Published records
 
-- **CDEA-GOOGLE-2026-001** — [Deep Ethics vs Ethics Washing in AI's Path to AGI/ASI](2026/2026-09-16_google-ai_deep-ethics-vs-ethics-washing_v01.pdf) · [metadata](2026/2026-09-16_google-ai_deep-ethics-vs-ethics-washing_v01.md) — began cold/default, then developed into a context-rich continuation; exact Google model unresolved.
+- **CDEA-GOOGLE-2026-001** — [Deep Ethics vs Ethics Washing in AI's Path to AGI/ASI](2026/2026-09-16_google-ai_deep-ethics-vs-ethics-washing_v01.pdf) · [metadata](2026/2026-09-16_google-ai_deep-ethics-vs-ethics-washing_v01.md) · [full interaction report](2026/2026-09-16_google-ai_interaction-report_v01.md) — began cold/default, then developed into a context-rich continuation; exact Google model unresolved.
