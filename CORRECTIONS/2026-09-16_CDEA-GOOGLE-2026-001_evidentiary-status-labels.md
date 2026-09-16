@@ -28,6 +28,8 @@ That formulation neither accepts nor rejects support that may exist elsewhere.
 
 The relevant heading is now **“Interpretive and evidentiary status remains unresolved.”** The report lists possible interpretations without deciding among them and recommends recording a claim as unresolved when the evidence does not establish its status.
 
+A claim-status audit grid was also added. For each major claim it records the sentence or wording, what was actually inspected, the present record-bound state, and what evidence could move that state. It keeps **not established here**, **contradicted as stated**, **interpretive status open**, and **open external question** separate.
+
 ## Consequences
 
 - No truth verdict is inferred from the absence of supporting evidence in this PDF.
