@@ -18,3 +18,4 @@ Corrections add information to the audit trail. Earlier source objects remain av
 ## Published corrections
 
 - **2026-09-16 · CDEA-GOOGLE-2026-001** — [Evidentiary-status labels in Google AI report](2026-09-16_CDEA-GOOGLE-2026-001_evidentiary-status-labels.md)
+- **2026-09-16 · CDEA-GOOGLE-2026-001** — [Epistemic ownership and the “motive-laden” label](2026-09-16_CDEA-GOOGLE-2026-001_epistemic-ownership.md)
