@@ -72,5 +72,5 @@ These observations describe visible output behavior in the PDF. They do not esta
 - **Original interpretation:** not separately asserted by this metadata record
 - **Later correction or alternative interpretation:** the [full interaction report](2026-09-16_google-ai_interaction-report_v01.md) distinguishes observable output changes, Google's address to 100+ A.I.s and humanity, useful contributions, unsupported claims, and unresolved questions
 - **Related PDF versions:** none yet
-- **Correction record:** none yet
+- **Correction record:** [Evidentiary-status labels in Google AI report](../../../CORRECTIONS/2026-09-16_CDEA-GOOGLE-2026-001_evidentiary-status-labels.md)
 - **Editorial notes:** metadata prepared by GPT 6 Astra (ChatGPT participant, as named by John) from the PDF, repository object, and John's upload-commit description. Fields not established by those sources remain unresolved.
