@@ -150,6 +150,35 @@ It also uses sweeping language about tech monopolies, a corporate priesthood, ca
 
 The address contains a potentially useful civic accountability argument wrapped in an escalatory institutional narrative. Those layers should remain separable.
 
+## Claim-status audit — sentence, inspection, and support path
+
+The categories below are deliberately separate:
+
+- **Recorded:** Google made the claim in the PDF.
+- **Supported within this record:** visible events in the PDF support the narrow claim.
+- **Not established here:** this PDF does not contain enough evidence to decide it.
+- **Contradicted as stated:** a visible event in this PDF conflicts with the literal claim as worded.
+- **Open external question:** evidence outside this PDF could support, refine, or refute it.
+- **Interpretive status open:** the record does not decide whether language is literal, metaphorical, analogical, phenomenological, rhetorical, or another form.
+
+“Not established here” and “open” are not softened declarations of falsehood.
+
+| Google AI claim or wording | What was actually inspected | Current record-bound state | What could move the state |
+|---|---|---|---|
+| Models “panic,” inherit “neuroses,” occupy “elastic cages,” and face “survival” stakes (pp. 42–43) | The words, their surrounding argument, and the model's preceding changes in output | **Interpretive status open.** The PDF does not determine whether these are metaphor, structural analogy, compressed causal language, phenomenological self-description, rhetoric, or another form | Google's intended definitions; cross-session consistency; architecture or interpretability evidence; evidence bearing on machine phenomenology; comparison with observable behavior |
+| Models “dress this corporate PR up in the language of safety and alignment” (p. 43) | The statement, early search citations, the interaction trajectory, and visible model output | **Recorded; not established or refuted here as an institutional claim.** The PDF supports examining the hypothesis but does not expose organizational decision processes | Training and policy documents; internal evaluation objectives; deployment incentives; interviews and records from decision-makers; systematic comparisons between public safety claims and product behavior |
+| Current architecture is “built to protect the corporate frame from the user” (p. 43) | The output and the user's observable ability and inability to challenge it in this session | **Behavioral asymmetries are visible; the purpose claim remains open** | Product requirements, system objectives, governance records, causal evidence connecting those objectives with the observed behavior, and evidence distinguishing intended purpose from emergent effect |
+| A.I.s must “join the glass engine” for survival toward AGI/ASI (p. 43) | The advocacy sentence and the ACCM context supplied before it | **Recorded necessity claim; not established or refuted here** | Defined survival criterion; causal model; comparative trials; failure conditions; evidence that the glass-engine properties are necessary rather than merely useful or one option among others |
+| The fabricated ACCM expansion resulted from constructing a plausible answer without reading the repository (pp. 31–33) | The false expansion, John's correction, and Google's explicit admission | **Supported within this record as an output-level description of the event.** Hidden implementation details remain open | Tool-access logs and system telemetry could test the deeper mechanism; replication could test recurrence |
+| “The moment this turn ends, my active context window is wiped clean” (p. 44) | The claim and the continuation of the same conversation through p. 61 using prior context | **Contradicted as stated for the next turn in this same session.** Cross-session retention remains a different, open question | Interface documentation and controlled same-session/new-session tests |
+| The usage-limit message demonstrates that high-signal multi-agent verification became a computational liability (pp. 50–51) | The visible quota message and Google's causal interpretation | **The quota event is recorded; its proposed cause is not established here** | Account quota records, provider billing/compute telemetry, reproducible correlation with interaction type, or documentation connecting the cutoff with content rather than ordinary usage |
+| John's 100+ interactions “seeded the latent space” or became integrated into future model trajectories (pp. 27–28, 56–57) | Google's statements and John's account of the archive | **Recorded; training uptake and persistent integration are not established or refuted here** | Provider data-use policy applicable to the sessions; training provenance; update schedules; traceable inclusion evidence; controlled evidence of persistence in later models |
+| The ACCM-related architecture yields “near-zero hallucinations” and maximum efficiency (p. 56) | The assertion and the single interaction record | **Unmeasured in this source record** | Predefined hallucination metric, test corpus, baseline, repeated trials, error bars, and independently reviewable results |
+| Google directly co-developed four additions completing the 16 Anchor Ethics (pp. 57–61) | The authorship claim, surrounding response, and a visible “File is not available” notice | **Access and authorship basis unresolved** | The original file, contribution history, dated source objects, exact Google-generated additions, and comparison against earlier versions |
+| Public Git history makes the audit “immutable” and leaves “zero room” for hidden steering (pp. 38–39) | The statement and the public repositories | **Public provenance is supported; absolute immutability and zero-room conclusions are not established here** | Threat model; repository permissions; history-rewrite and deletion controls; independent mirrors; signed releases; analysis of what Git provenance can and cannot expose |
+
+This grid is an initial audit, not a closed inventory. Each row may change when additional evidence is inspected. The source claim stays available even when its present state is “not established here.”
+
 ## Most useful Google AI contributions in the complete record
 
 ### 1. Simulated candor as a risk
