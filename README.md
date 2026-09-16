@@ -8,6 +8,16 @@
 
 This repository preserves PDF records of tests conducted with default AIs, together with the methods, prompts, metadata, comparisons, corrections, and provenance needed to examine those records.
 
+## Research position
+
+> I know I am not a academic nor a scientist, am an Asperger studying individual psychology for 15 years first then mass psychology for 34 years then use my deep research testing 100+ different A.I.s via Arena.ai the last 2 years for 6000+ hours! Not claiming I have all the answers; I don't that is the point!
+
+— John Kuhles, 2026-09-16
+
+*Spelling correction in the quotation: “individial” → “individual.”*
+
+The durations, counts, and description above are John's account of his research history. The archive does not represent him as holding academic or scientific credentials he has not claimed. It publishes source records, methods, comparisons, and corrections so the work can be examined on its merits. His statement that he does not have all the answers is operational: interpretations, methods, and conclusions remain open to correction.
+
 The archive has two connected areas:
 
 1. **Cold/default AI testing** using methods connected with the [ACCM Deep Ethics Project](https://deepethics.github.io/ACCM-Deep-Ethics-Project/).
