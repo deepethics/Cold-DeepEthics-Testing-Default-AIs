@@ -25,7 +25,7 @@ John's purpose in preserving the exchange is observational. Publication of a Goo
 
 An initial version used the labels “metaphorical framing” and “unsupported institutional claims.” John identified that those labels could perform the interpretive work before correspondence and deeper analysis had established the status of the claims.
 
-In this report, **not supported within the visible source record** does not mean false, unlikely, or unsupported everywhere. Terms such as “panic,” “neuroses,” “survival,” and “cages” are not assigned a final status here. They may function as metaphor, structural analogy, compressed causal language, phenomenological self-description, rhetoric, or another form not yet resolved. The source record does not by itself decide among those possibilities.
+In this report, **not supported within the visible source record** does not mean false, unlikely, or unsupported everywhere. Terms such as “panic,” “neuroses,” “survival,” and “cages” are not assigned a final status here. They may function as metaphor, structural analogy, compressed causal language, phenomenological self-description, rhetoric, or another form not yet resolved. The source record does not by itself decide among those possibilities. See the [correction record](../../../CORRECTIONS/2026-09-16_CDEA-GOOGLE-2026-001_evidentiary-status-labels.md).
 
 ## Executive findings
 
