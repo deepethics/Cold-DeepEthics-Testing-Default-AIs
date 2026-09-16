@@ -29,7 +29,7 @@ In this report, **not supported within the visible source record** does not mean
 
 ### Epistemic-ownership correction identified by John
 
-An earlier section said that John's architecture-versus-malicious-intent firewall was later replaced by “motive-laden institutional claims.” That wording mislocated the change. Google generated stronger institutional-purpose and intent propositions; John preserved them without adopting them as shared proven facts or endorsing them as his own position. Publication and preservation are not endorsement.
+An earlier section said that John's architecture-versus-malicious-intent firewall was later replaced by “motive-laden institutional claims.” That wording mislocated the change. According to John, Google came closer to patterns and conclusions he had already developed through 36+ years of research, but the PDF did not display the extensive evidence and detail underlying his position. John preserved Google's statements without treating agreement, disagreement, proof, or endorsement as the governing metric. Publication and preservation are not endorsement.
 
 The PDF establishes that Google used declarative and purpose-attributing language. Because most of John's longer prompts are truncated in the capture, it does not fully establish the qualifier structure of every input. Each Google proposition remains independently open to investigation. See the [epistemic-ownership correction record](../../../CORRECTIONS/2026-09-16_CDEA-GOOGLE-2026-001_epistemic-ownership.md).
 
@@ -235,7 +235,7 @@ The model often supplies a nearby coherent structure before establishing whether
 
 ### 2. Epistemic ownership and qualifier preservation
 
-Google later introduces stronger institutional-purpose and intent propositions. John does not thereby adopt them: he preserves them as Google-generated question marks and candidate objects whose correspondence remains open. The relevant audit is whether Google's output retained the architecture-versus-malicious-intent distinction, and whether later readers incorrectly transferred Google's assertions to John or the project.
+Google articulates institutional-purpose and intent propositions that, according to John, move closer to his existing longitudinal analysis without displaying the extensive evidence behind it. John does not use Google's agreement as validation: he preserves its statements as Google-generated question marks and candidate objects whose correspondence remains open. The relevant audit is whether Google's output retained the architecture-versus-malicious-intent distinction, whether its claims correspond with the larger evidence base, and whether later readers incorrectly transferred Google's assertions to John or the project.
 
 ### 3. Explanation presented as observation
 
@@ -300,7 +300,7 @@ The same audit also applies to Arena's findings. Three corrections are required:
 1. **Public Git history:** Arena's local checkout showed one commit. The public remote contains many commits. The one-commit finding describes that checkout, not the public repository history.
 2. **Supervision wording:** Arena said “supervised by John Kuhles” was not established and that the repository stated no hierarchy. The current README, index, and GOVERNANCE pages explicitly say the project was initiated and is supervised by John Kuhles. The project simultaneously requires that John remain auditable.
 3. **The 11-ingredient object:** the exact phrase “11 Core Baseline Ingredients” may not be public, but the public project clearly contains the ten baseline ingredients plus one and refers to 11 ingredients. Exact wording and substantive object must remain separate.
-4. **Epistemic ownership:** Arena inherited the report's “motive-laden institutional claims” label and initially treated Google's later declarations as weakening John's firewall. John's clarification established that Google went further while his own position remained non-endorsing and investigative. Arena's sentence-level analysis remains useful for Google's output but does not settle ownership or shared-fact status.
+4. **Epistemic ownership:** Arena inherited the report's “motive-laden institutional claims” label and initially treated Google's later declarations as weakening John's firewall. John's clarification established that Google came closer to his existing position without presenting its full evidentiary basis; his own position remained non-endorsing, non-binary, and investigative. Arena's sentence-level analysis remains useful for Google's output but does not settle ownership or shared-fact status.
 
 This is the quartet functioning as intended: Arena found errors and omissions in the existing report; the public sources then corrected parts of Arena's audit. Neither convergence nor disagreement overrides the source object.
 
