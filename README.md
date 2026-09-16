@@ -46,7 +46,7 @@ PDFs should normally remain below **25 MiB** for convenient browser uploading an
 
 ## Current status
 
-The framework is ready for the first PDF. Catalog entries and interpretations remain corrigible as the archive grows.
+The first PDF is registered: [Deep Ethics vs Ethics Washing in AI's Path to AGI/ASI](TESTS/Google/2026/2026-09-16_google-ai_deep-ethics-vs-ethics-washing_v01.pdf). Catalog entries and interpretations remain corrigible as the archive grows.
 
 — **John Kuhles**  
 CEO & Founder, DeepEthical.ai

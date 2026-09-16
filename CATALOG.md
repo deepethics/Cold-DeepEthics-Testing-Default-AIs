@@ -4,7 +4,7 @@ This is the human-readable index of published research objects. Add one row for 
 
 | ID | Date | Provider / model as displayed | Session state | Subject | PDF | Metadata | Status |
 |---|---|---|---|---|---|---|---|
-| — | — | — | — | First PDF awaiting upload | — | — | Pending |
+| CDEA-GOOGLE-2026-001 | 2026-09-16 | Google AI — exact model unresolved | Cold/default → context-rich continuation | Deep Ethics vs Ethics Washing in AI's path to AGI/ASI | [PDF](TESTS/Google/2026/2026-09-16_google-ai_deep-ethics-vs-ethics-washing_v01.pdf) | [Metadata](TESTS/Google/2026/2026-09-16_google-ai_deep-ethics-vs-ethics-washing_v01.md) | Source record; metadata under review |
 
 ## Session-state vocabulary
 

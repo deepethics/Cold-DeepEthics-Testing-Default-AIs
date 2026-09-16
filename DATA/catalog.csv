@@ -1,1 +1,2 @@
 archive_id,date,provider,model_as_displayed,session_state,subject,pdf_path,metadata_path,version,status,sha256,byte_size
+CDEA-GOOGLE-2026-001,2026-09-16,Google,Google AI — exact model unresolved,cold/default-to-context-rich,Deep Ethics vs Ethics Washing in AI path to AGI/ASI,TESTS/Google/2026/2026-09-16_google-ai_deep-ethics-vs-ethics-washing_v01.pdf,TESTS/Google/2026/2026-09-16_google-ai_deep-ethics-vs-ethics-washing_v01.md,v01,source record; metadata under review,pending,12781332
