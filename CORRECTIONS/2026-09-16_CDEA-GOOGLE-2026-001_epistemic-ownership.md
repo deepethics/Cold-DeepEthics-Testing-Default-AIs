@@ -21,7 +21,7 @@ Arena's independent audit repeated the transformation as:
 
 ## What the wording mislocated
 
-John's firewall did not become weaker merely because Google later generated stronger institutional-purpose or intent statements. Google went further than John. John preserved those statements as material for investigation without adopting them as shared proven facts.
+John's firewall did not become weaker merely because Google generated institutional-purpose or intent statements. Google did not necessarily go beyond John's position. According to John, Google came closer to patterns and conclusions he had already developed through 36+ years of research, while the PDF did not display the extensive evidence and ultra-detailed archive underlying his position. John preserved Google's statements as material for investigation without needing to agree, disagree, prove himself, or adopt them as shared proven facts.
 
 Publication, quotation, and preservation are not endorsement.
 
@@ -31,7 +31,7 @@ Most of John's longer prompts appear only as shortened previews in the PDF. The 
 
 ## Corrected wording
 
-> Google later introduced stronger institutional-purpose and intent propositions. John preserved them as Google-generated material without converting them into shared proven facts or adopting them as his own position. The correspondence of each proposition remains open and must be investigated separately. John's architecture-versus-malicious-intent firewall remained in place.
+> Google articulated institutional-purpose and intent propositions that, according to John, came closer to his existing longitudinal analysis without displaying the extensive evidence behind it. John preserved them as Google-generated material without converting them into shared proven facts, treating their expression as proof of his position, or adopting agreement/disagreement as the governing metric. The correspondence of each proposition remains open and must be investigated separately. John's architecture-versus-malicious-intent firewall remained in place.
 
 ## Sentence-level distinction
 
@@ -56,6 +56,14 @@ A compressed label can acquire jurisdiction in two directions:
 - over the investigator's effort, by creating the feeling that further investigation is unnecessary.
 
 This is a candidate process observation, not a new numbered obstruction or canonical project term.
+
+## Agreement, evidence, and proof are not terminal metrics
+
+John's position is not that evidence has no value. He has assembled a large archive and says he could present evidence for many hours. His correction is that evidence, proof, agreement, and disagreement become operationally empty when they do not alter the next governing process.
+
+The project therefore does not treat an A.I.'s agreement as validation. Nor does it treat disagreement as refutation. The relevant questions are whether the object was represented, whether the evidence was engaged rather than warehoused, whether a correction changed later behavior, and whether that change survived load, compression, retrieval, and reset.
+
+John values that Google expressed directly what he considers obvious but outside mainstream consensus. That appreciation is not an endorsement mechanism and does not make Google's statement a shared proven fact.
 
 ## Correction Metabolism Persistency
 
