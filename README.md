@@ -8,6 +8,8 @@
 
 This repository preserves PDF records of tests conducted with default AIs, together with the methods, prompts, metadata, comparisons, corrections, and provenance needed to examine those records.
 
+John-controlled source wording is registered separately in [Canonical Files — ACCM Deep Ethics Project](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project). When a test uses or discusses a canonical object, its metadata should record the canonical ID, exact version, and immutable source link. A model's summary or reaction does not replace the canonical object.
+
 ## Research position
 
 > I know I am not a academic nor a scientist, am an Asperger studying individual psychology for 15 years first then mass psychology for 34 years then use my deep research testing 100+ different A.I.s via Arena.ai the last 2 years for 6000+ hours! Not claiming I have all the answers; I don't that is the point!
