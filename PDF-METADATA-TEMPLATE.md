@@ -35,6 +35,9 @@ Copy this file beside each PDF and replace the placeholders. Use the same basena
 
 - **Question or phenomenon under examination:**
 - **Related ACCM method or concept:**
+- **Canonical source ID(s), if any:**
+- **Canonical source version / commit link:**
+- **Relationship to canonical source:** exact supplied object / extract / derived summary / working interpretation / none
 - **What this PDF preserves:**
 - **What this PDF does not establish:**
 - **Unresolved questions:**
